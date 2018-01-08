@@ -1,0 +1,62 @@
+[
+    {
+        "breed": "britishshorthair",
+        "image": "https://static.wixstatic.com/media/72fc72_8605772fa9a947078aa5dfce58360293~mv2_d_4258_2838_s_4_2.jpg/v1/fill/w_784,h_523,al_c,q_90,usm_0.66_1.00_0.01/72fc72_8605772fa9a947078aa5dfce58360293~mv2_d_4258_2838_s_4_2.webp"
+    },
+    {
+        "breed": "siamese",
+        "image": "http://cdn2-www.cattime.com/assets/uploads/gallery/siamese-cats-and-kittens-pictures/siamese-cat-kitten-picture-2.jpg"
+    },
+    {
+        "breed": "persian_kitten",
+        "image": "http://www.ducksters.com/animals/persian_kitten.jpg"
+    },
+    {
+        "breed": "ragdoll",
+        "image": "http://www.poshragdolls.com/assets/All_five.jpg"
+    },
+    {
+        "breed": "maine-coon",
+        "image": "https://i.pinimg.com/736x/80/d4/17/80d4172a9af9ad7f14b1b30fb27d65a2--cat-ballou-maine-coon-kittens.jpg"
+    },
+    {
+        "breed": "bengal",
+        "image": "https://www.pets4homes.co.uk/images/breeds/31/large/f454d1eb66452ba89de07e58b0092c1f.jpg"
+    },
+    {
+        "breed": "abyssinian",
+        "image": "http://cdn3-www.cattime.com/assets/uploads/gallery/abyssinian-cats-and-kittens/abyssinian-1.jpg"
+    },
+    {
+        "breed": "american-bobtail",
+        "image": "https://vetstreet.brightspotcdn.com/dims4/default/3e3096f/2147483647/crop/0x0%2B0%2B0/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F8e%2F0667109dc411e0a2380050568d634f%2Ffile%2FAmerican-Bobtail-2-645mk062211.jpg"
+    },
+    {
+        "breed": "sibirian",
+        "image": "https://assets.rbl.ms/4169794/980x.jpg"
+    },
+    {
+        "breed": "birman",
+        "image": "https://vetstreet.brightspotcdn.com/dims4/default/303f54d/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F29%2Fb6%2Ff4a864144d09974dfe5bf0513e20%2FPersian-AP-V8HE5B-645sm3614.jpg"
+    },
+    {
+        "breed": "scottish-fold",
+        "image": "https://iheartcats.com/wp-content/uploads/2015/02/5255462794_19f91d3463_z-e1424134684199.jpg"
+    },
+    {
+        "breed": "norwegian-forest",
+        "image": "http://cdn3-www.cattime.com/assets/uploads/gallery/norwegian-forest-cats-and-kittens/norwegian-forest-cats-kittens-3.jpg"
+    },
+    {
+        "breed": "turkish",
+        "image": "http://cfa.org/portals/0/Images/breeds/TA/profile1.jpg"
+    },
+    {
+        "breed": "egyptian",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Egyptian_Mau_Bronze.jpg/1200px-Egyptian_Mau_Bronze.jpg"
+    },
+    {
+        "breed": "american",
+        "image": "http://www.catbreedslist.com/uploads/allimg/cat-pictures/American-Curl-2.jpg"
+    }
+]
