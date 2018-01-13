@@ -15,3 +15,17 @@ Created during Week 12 of GW Coding Bootcamp. The goal was to create a memory ga
 4. Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
 
 5. Once the user's score is reset after an incorrect guess, the game should restart.
+
+## Technologies used
+- React
+- bootstrap
+- CSS
+
+## Built With
+
+* Sublime Text - Text Editor
+* Gitbash
+
+## Author
+
+* **Sophia Sheref**
